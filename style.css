@@ -1,0 +1,28 @@
+body{
+    background-color: #e6aa05;
+    color: white;
+}
+#diamond{
+    color: purple;
+    font-family: cursive;
+}
+hr{
+    color: purple;
+}
+.nav-item{
+    text-align: center;
+    font-size: xxx-large;
+}
+#two {
+    text-shadow: 2px 2px black;
+}
+a{
+    color: purple;
+}
+a:hover {
+    color: purple;
+}
+.navbar-toggler{
+    width: 100px;
+    height: 80px;
+}
